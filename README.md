@@ -6,7 +6,7 @@ Welcome to our Event Management System (EMS) website! This system is designed to
 ![Screenshot](screenshot.png)
 
 ## Live Preview
-[Live Site] ()
+[Live Site](https://webycoderjatin.github.io/Event-Management-System/)
 
 ## Table of Contents
 
