@@ -2,6 +2,12 @@
 
 Welcome to our Event Management System (EMS) website! This system is designed to streamline event planning, management, and attendee engagement. Below is a guide to help you navigate through the different sections of our website.
 
+## Preview
+![Screenshot](screenshot.png)
+
+## Live Preview
+[Live Site] ()
+
 ## Table of Contents
 
 - [Homepage](#homepage)
